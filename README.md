@@ -39,24 +39,7 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiqueBitt&show_icons=true&include_all_commits=true&count_private=true&title_color=CD5C5C&text_color=FFFFFF&icon_color=CD5C5C&bg_color=000000&border_color=CD5C5C"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=compact&langs_count=7&title_color=CD5C5C&text_color=FFFFFF&icon_color=CD5C5C&bg_color=000000&border_color=CD5C5C"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiqueBitt&background=000000&border=CD5C5C&stroke=CD5C5C&ring=CD5C5C&fire=CD5C5C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CD5C5C&sideLabels=CD5C5C&dates=888888" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Profile Trophy 
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=RiqueBitt&theme=darkhub&no-frame=false&no-bg=false&row=2&column=4&title_color=CD5C5C&text_color=FFFFFF&icon_color=CD5C5C&bg_color=000000" alt="GitHub Trophy" />
 </div>
 
 ---
