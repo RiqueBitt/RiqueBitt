@@ -1,6 +1,8 @@
-<img src="https://media.discordapp.net/attachments/1410788836975444041/1493242768712007701/8556280-isometrico-ilustracao-3d-hacker-e-icones-dados-com-fundo-branco-vetor-Photoroom.png?ex=69de4233&is=69dcf0b3&hm=931f6cc0dd37750933b29e2103e64053b022597dfcba40f452d2dfcaa00baa34&=&format=webp&quality=lossless&width=578&height=438" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 ## 🖤 Olá, meu nome é RiqueBitt! ❤️
+
+<br clear="right">
+
+<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://media.discordapp.net/attachments/1410788836975444041/1493242768712007701/8556280-isometrico-ilustracao-3d-hacker-e-icones-dados-com-fundo-branco-vetor-Photoroom.png?ex=69de4233&is=69dcf0b3&hm=931f6cc0dd37750933b29e2103e64053b022597dfcba40f452d2dfcaa00baa34&=&format=webp&quality=lossless&width=1240&height=940)" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 ### 👨🏻‍💻 Programador Intermediário
 
@@ -13,9 +15,11 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
   ❤️ Code is life
 </p>
 
+<br clear="right">
+
 ---
 
-## 🛠️ Minhas Skills 
+## 🛠️ Minhas Skills ❤️
 
 **🦄 Linguagens e Tecnologias**
 
@@ -34,7 +38,14 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 
 ---
 
-### ⚙️ GitHub Analytics 
+### ⚙️ GitHub Analytics ❤️
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiqueBitt&show_icons=true&include_all_commits=true&count_private=true&title_color=CD5C5C&text_color=FFFFFF&icon_color=CD5C5C&bg_color=000000&border_color=CD5C5C"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=compact&langs_count=7&title_color=CD5C5C&text_color=FFFFFF&icon_color=CD5C5C&bg_color=000000&border_color=CD5C5C"/>
+</div>
 
 <br>
 
@@ -44,7 +55,17 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 
 ---
 
-## 📫 Onde me encontrar 
+### 🏆 GitHub Profile Trophy ❤️
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=RiqueBitt&theme=darkhub&no-frame=false&no-bg=false&row=2&column=4&title_color=CD5C5C&text_color=FFFFFF&icon_color=CD5C5C&bg_color=000000" alt="GitHub Trophy" />
+</div>
+
+---
+
+## 📫 Onde me encontrar ❤️
 
 <p align="left">
   💌 Quer bater um papo? Me chama nas redes sociais! ⤵️
@@ -63,8 +84,12 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count ❤️</b></h3>
-  <img src="https://profile-counter.glitch.me/RiqueBitt/count.svg" alt="Número de visitantes no perfil" />
+  
+  <!-- Contador de visitantes corrigido -->
+  <img src="https://profile-counter.glitch.me/RiqueBitt/count.svg" />
+  
   <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=RiqueBitt&color=CD5C5C" alt="Contador de visitas alternativo" />
 </div>
 
