@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 ## 🖤 Olá, meu nome é RiqueBitt! ❤️
+
+<br clear="right">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 ### 👨🏻‍💻 Programador Intermediário
 
@@ -13,24 +15,59 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
   ❤️ Code is life
 </p>
 
+<br clear="right">
+
 ---
 
 ## 🛠️ Minhas Skills ❤️
 
-**🦄 Linguagens e Tecnologias**
+### 🚀 Linguagens que domino:
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=CD5C5C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=CD5C5C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=CD5C5C)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=CD5C5C)
-![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=CD5C5C)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=CD5C5C)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=CD5C5C)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=CD5C5C)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=CD5C5C)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=CD5C5C)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=CD5C5C)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=CD5C5C)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=CD5C5C)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=CD5C5C)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=CD5C5C)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=CD5C5C)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=CD5C5C)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=CD5C5C)
+![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=CD5C5C)
 
-**💼 Ferramentas de trabalho**
+### 📚 Frameworks e Bibliotecas:
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=CD5C5C)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=CD5C5C)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=CD5C5C)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=CD5C5C)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=CD5C5C)
+![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=CD5C5C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=CD5C5C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=CD5C5C)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=CD5C5C)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=CD5C5C)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=CD5C5C)
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=CD5C5C)
+
+### 🗄️ Banco de Dados:
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=CD5C5C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=CD5C5C)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=CD5C5C)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=CD5C5C)
+
+### ☁️ DevOps & Cloud:
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=CD5C5C)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=CD5C5C)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=CD5C5C)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=CD5C5C)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=CD5C5C)
+![AWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=CD5C5C)
+
+### 🎮 Game Development:
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=CD5C5C)
 
 ---
 
@@ -69,10 +106,10 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 
 <p align="left">
   <a href="mailto:riquebitt@email.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&labelColor=000000&logo=gmail&logoColor=CD5C5C" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=CD5C5C" alt="Gmail"/>
   </a>
   <a href="https://github.com/RiqueBitt" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&labelColor=000000&logo=github&logoColor=CD5C5C" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=CD5C5C" alt="GitHub"/>
   </a>
 </p>
 
@@ -80,8 +117,11 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count ❤️</b></h3>
-  <img src="https://profile-counter.glitch.me/RiqueBitt/count.svg" alt="Número de visitantes no perfil" />
+  
+  <img src="https://profile-counter.glitch.me/RiqueBitt/count.svg" />
+  
   <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=RiqueBitt&color=CD5C5C" alt="Contador de visitas alternativo" />
 </div>
 
