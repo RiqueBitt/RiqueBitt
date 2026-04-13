@@ -1,8 +1,6 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## 🖤 Olá, meu nome é RiqueBitt! ❤️
-
-<br clear="right">
-
-<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://media.discordapp.net/attachments/1410788836975444041/1493242768712007701/8556280-isometrico-ilustracao-3d-hacker-e-icones-dados-com-fundo-branco-vetor-Photoroom.png?ex=69de4233&is=69dcf0b3&hm=931f6cc0dd37750933b29e2103e64053b022597dfcba40f452d2dfcaa00baa34&=&format=webp&quality=lossless&width=1240&height=940)" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 ### 👨🏻‍💻 Programador Intermediário
 
@@ -14,8 +12,6 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
   🚀 Apaixonado por tecnologia<br>
   ❤️ Code is life
 </p>
-
-<br clear="right">
 
 ---
 
@@ -84,12 +80,8 @@ Sou um programador intermediário apaixonado por tecnologia e desenvolvimento de
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count ❤️</b></h3>
-  
-  <!-- Contador de visitantes corrigido -->
-  <img src="https://profile-counter.glitch.me/RiqueBitt/count.svg" />
-  
+  <img src="https://profile-counter.glitch.me/RiqueBitt/count.svg" alt="Número de visitantes no perfil" />
   <br><br>
-  
   <img src="https://komarev.com/ghpvc/?username=RiqueBitt&color=CD5C5C" alt="Contador de visitas alternativo" />
 </div>
 
