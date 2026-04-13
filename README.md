@@ -2,7 +2,7 @@
 
 <br clear="right">
 
-<img src="https://media.discordapp.net/attachments/1410788836975444041/1493242768712007701/8556280-isometrico-ilustracao-3d-hacker-e-icones-dados-com-fundo-branco-vetor-Photoroom.png?ex=69de4233&is=69dcf0b3&hm=931f6cc0dd37750933b29e2103e64053b022597dfcba40f452d2dfcaa00baa34&=&format=webp&quality=lossless&width=1240&height=940" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://media.discordapp.net/attachments/1410788836975444041/1493242768712007701/8556280-isometrico-ilustracao-3d-hacker-e-icones-dados-com-fundo-branco-vetor-Photoroom.png?ex=69de4233&is=69dcf0b3&hm=931f6cc0dd37750933b29e2103e64053b022597dfcba40f452d2dfcaa00baa34&=&format=webp&quality=lossless&width=1240&height=940" alt="ilustração de um computador" min-width="350px" max-width="350px" width="450px" align="right">
 
 ### 👨🏻‍💻 Programador Intermediário
 
