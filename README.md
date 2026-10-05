@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:320000,100:7A0000&height=170&section=header&text=RiqueBitt&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:8B0000&height=180&section=header&text=RiqueBitt&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Tech&descAlignY=58&descSize=16" width="100%"/>
 
 ### 🩸 Developer · 🎮 Minecraft · 🌐 Web
 
