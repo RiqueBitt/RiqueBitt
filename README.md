@@ -49,20 +49,6 @@
 
 ---
 
-<div align="center" style="background-color:#000000; padding:20px; border-radius:12px;">
-
-### 💣 Minesweeper Contribution Graph
-
-<img
-  src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/assets/demo/minesweeper.svg"
-  alt="Minesweeper contribution graph"
-  width="100%"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🖤 Build. Create. Evolve.
