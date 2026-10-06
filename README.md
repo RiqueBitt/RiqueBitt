@@ -22,21 +22,15 @@
 
 ### 🌐 Socials
 
-<a href="https://github.com/RiqueBitt">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=7A0000&labelColor=&style=for-the-badge" height="25" alt="github logo"/>
-</a>
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=7A0000&labelColor=&style=for-the-badge" height="25" alt="github logo"/>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=450000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-</a>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=450000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
 
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7A0000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-</a>
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7A0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
 
-<a href="https://w.app/ptgje9">
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=180000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>
-</a>
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=450000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
+
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=180000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
 
 </div>
 
@@ -63,11 +57,11 @@
 
 ### 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=RiqueBitt&show_icons=true&hide_border=true&bg_color=080000&title_color=8B0000&text_color=FFFFFF&icon_color=7A0000&count_private=true&rank_icon=github" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RiqueBitt&show_icons=true&hide_border=true&bg_color=080000&title_color=7A0000&text_color=FFFFFF&icon_color=7A0000&count_private=true&rank_icon=github" height="155"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=compact&hide_border=true&bg_color=080000&title_color=8B0000&text_color=FFFFFF&langs_count=8" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=compact&hide_border=true&bg_color=080000&title_color=7A0000&text_color=FFFFFF&langs_count=5" height="155"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=RiqueBitt&label=PROFILE%20VIEWS&color=7A0000&style=for-the-badge"/>
 
@@ -77,43 +71,12 @@
 
 <div align="center">
 
-### 💻 Languages & Technologies
+### 🕹️ Contributions
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,lua,react,nodejs,postgres,git,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-180000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Java-450000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-7A0000?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/TypeScript-450000?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/React-180000?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Node.js-7A0000?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&customColorList=6,12,24,30"/>
-
-<div align="center">
-
-### 📚 Languages Studied
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=donut-vertical&hide_border=true&bg_color=080000&title_color=8B0000&text_color=FFFFFF&langs_count=8" height="300"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🕹️ Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/github-contribution-grid-snake.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 </div>
