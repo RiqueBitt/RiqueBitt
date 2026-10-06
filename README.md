@@ -20,20 +20,6 @@
 
 <div align="center">
 
-### 🌐 Socials
-
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=7A0000&labelColor=&style=for-the-badge" height="25" alt="github logo"/>
-
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=450000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7A0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
-
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=450000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=180000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-
-</div>
-
 ---
 
 <div align="center">
