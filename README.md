@@ -16,12 +16,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&customColorList=6,12,24,30"/>
-
-<div align="center">
-
----
-
 <div align="center">
 
 ### 🚀 Projects
