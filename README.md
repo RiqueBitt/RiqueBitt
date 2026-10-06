@@ -4,7 +4,7 @@
 
 ### 🩸 Developer · 🎮 Minecraft · 🌐 Web
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,lua,react,nodejs,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,java,lua,react,nodejs,postgres,git,github,vscode" />
 
 <br><br>
 
@@ -20,13 +20,13 @@
 
 ### 🚀 Projects
 
-🟣 **Project Club**
+🟣 **Project Club**  
 *Social platform & application ecosystem*
 
-🎮 **Minecraft**
+🎮 **Minecraft**  
 *Servers · Plugins · Systems*
 
-🤖 **Robbie**
+🤖 **Robbie**  
 *Bot · Economy · XP · Rankings*
 
 </div>
