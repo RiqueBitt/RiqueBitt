@@ -51,20 +51,20 @@
 
 <div align="center">
 
-### 🕹️ Contributions
+### 💣 Contributions
 
-<picture data-importer="pacman">
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"
+    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/pacman-output/minesweeper-contribution-graph-dark.svg?game=minesweeper"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph.svg?game=galaga"
+    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/pacman-output/minesweeper-contribution-graph.svg?game=minesweeper"
   >
   <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph.svg?game=galaga"
+    alt="Minesweeper contribution graph"
+    src="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/pacman-output/minesweeper-contribution-graph.svg?game=minesweeper"
   >
 </picture>
 
