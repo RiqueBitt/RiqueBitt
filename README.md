@@ -51,22 +51,13 @@
 
 <div align="center">
 
-### 💣 Contributions
+### 💣 Minesweeper Contribution Graph
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/minesweeper-contribution-graph-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/minesweeper-contribution-graph.svg"
-  >
-  <img
-    alt="Minesweeper contribution graph"
-    src="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/minesweeper-contribution-graph.svg"
-  >
-</picture>
+<img
+  src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/assets/demo/minesweeper.svg"
+  alt="Minesweeper contribution graph"
+  width="100%"
+/>
 
 </div>
 
