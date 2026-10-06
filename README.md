@@ -56,15 +56,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/pacman-output/minesweeper-contribution-graph-dark.svg?game=minesweeper"
+    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/minesweeper-contribution-graph-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/pacman-output/minesweeper-contribution-graph.svg?game=minesweeper"
+    srcset="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/minesweeper-contribution-graph.svg"
   >
   <img
     alt="Minesweeper contribution graph"
-    src="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/pacman-output/minesweeper-contribution-graph.svg?game=minesweeper"
+    src="https://raw.githubusercontent.com/RiqueBitt/RiqueBitt/output/minesweeper-contribution-graph.svg"
   >
 </picture>
 
