@@ -1,0 +1,14 @@
+# .gitignore pronto para projetos Node/Discord bots (copie como .gitignore)
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+coverage/
+*.sqlite
+*.db
