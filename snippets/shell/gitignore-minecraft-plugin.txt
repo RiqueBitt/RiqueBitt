@@ -1,0 +1,11 @@
+# .gitignore para plugins Spigot/Paper com Gradle ou Maven (copie como .gitignore)
+.gradle/
+build/
+target/
+out/
+.idea/
+*.iml
+run/
+server/
+*.class
+.DS_Store
