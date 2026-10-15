@@ -1,0 +1,13 @@
+// ecosystem.config.cjs para PM2 (copie com esse nome). Rode: pm2 start ecosystem.config.cjs
+module.exports = {
+  apps: [
+    {
+      name: 'bot',
+      script: 'index.js',
+      max_memory_restart: '300M',
+      restart_delay: 5000,
+      env: { NODE_ENV: 'production' },
+      time: true,
+    },
+  ],
+};
